@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeProviderServiceHost", "DateTimeProviderServiceHost\DateTimeProviderServiceHost.csproj", "{1B24BD79-AC52-4E48-9599-57C03698015A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeProviderService", "DateTimeProviderService\DateTimeProviderService.csproj", "{FC1B7CD8-3C0B-4172-BE2A-F36E0B60360B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B24BD79-AC52-4E48-9599-57C03698015A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B24BD79-AC52-4E48-9599-57C03698015A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B24BD79-AC52-4E48-9599-57C03698015A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B24BD79-AC52-4E48-9599-57C03698015A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1B7CD8-3C0B-4172-BE2A-F36E0B60360B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1B7CD8-3C0B-4172-BE2A-F36E0B60360B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1B7CD8-3C0B-4172-BE2A-F36E0B60360B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1B7CD8-3C0B-4172-BE2A-F36E0B60360B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
